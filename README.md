@@ -318,4 +318,4 @@ diagrama de classe venda
 ![Diagrma de classes de Produto](src/br/ulbra/img/venda.jpeg)
 
 diagrama de entidade relacionamento
-![Diagrma de classes de Produto](src/br/ulbra/img/diagrama-entidade.jpeg)
+![Diagrma de entidade relacionamento](src/br/ulbra/img/diagrama_entidade.jpeg)
