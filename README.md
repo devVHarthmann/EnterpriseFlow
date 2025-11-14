@@ -323,6 +323,7 @@ diagrama de classe Cliente
 diagrama de entidade relacionamento
 ![Diagrma de entidade relacionamento](src/br/ulbra/img/diagrama_entidade.jpeg)
 
+
 diagrama de casos de uso
 ![Diagrma de casos de uso](src/br/ulbra/img/diagramaCasosUsos.jpg)
 
