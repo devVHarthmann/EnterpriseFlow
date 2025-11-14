@@ -303,7 +303,7 @@ GRANT ALL PRIVILEGES ON cruddb1.* TO 'appuser'@'localhost';
 Este projeto foi desenvolvido para fins **educacionais**, como exemplo de CRUD com **Java + MySQL + Swing**, servindo de base para práticas de programação fullstack. Além disso, utiliza da collaboração entre alunos, ensinando-os as dificuldes do mercado de trabalho e como o ambiente de trabalho funciona.
 
 ---
-##Diagrmas
+## Diagramas
 
 diagrama de classe produto
 ![Diagrma de classes de Produto](src/br/ulbra/img/produto.jpeg)
