@@ -38,6 +38,11 @@ src/br/ulbra/
  └─ src/         → Ícones
 ```
 
+# Figma
+
+```text
+https://www.figma.com/design/4cgxB21gcXRO7K15D59vXC/Untitled?node-id=0-1&p=f
+```
 ---
 
 ## Banco de Dados
