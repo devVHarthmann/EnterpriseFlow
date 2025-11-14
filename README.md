@@ -303,19 +303,19 @@ GRANT ALL PRIVILEGES ON cruddb1.* TO 'appuser'@'localhost';
 Este projeto foi desenvolvido para fins **educacionais**, como exemplo de CRUD com **Java + MySQL + Swing**, servindo de base para práticas de programação fullstack. Além disso, utiliza da collaboração entre alunos, ensinando-os as dificuldes do mercado de trabalho e como o ambiente de trabalho funciona.
 
 diagrama de classe produto
-[Diagrma de classes de Produto](src/br/ulbra/img/produto)
+[Diagrma de classes de Produto](src/br/ulbra/img/produto.jpeg)
 
 diagrama de classe fonecedor
-[Diagrma de classes de Produto](src/br/ulbra/img/fornecedor)
+[Diagrma de classes de Produto](src/br/ulbra/img/fornecedor.jpeg)
 
 diagrama de classe cliente
-[Diagrma de classes de Produto](src/br/ulbra/img/cliente)
+[Diagrma de classes de Produto](src/br/ulbra/img/cliente.jpeg)
 
 diagrama de classe usuario
-[Diagrma de classes de Produto](src/br/ulbra/img/usuario)
+[Diagrma de classes de Produto](src/br/ulbra/img/usuario.jpeg)
 
 diagrama de classe venda
-[Diagrma de classes de Produto](src/br/ulbra/img/venda)
+[Diagrma de classes de Produto](src/br/ulbra/img/venda.jpeg)
 
 diagrama de entidade relacionamento
-[Diagrma de classes de Produto](src/br/ulbra/img/diagrama-entidade)
+[Diagrma de classes de Produto](src/br/ulbra/img/diagrama-entidade.jpeg)
