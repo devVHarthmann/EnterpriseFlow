@@ -306,19 +306,19 @@ Este projeto foi desenvolvido para fins **educacionais**, como exemplo de CRUD c
 ## Diagramas
 
 diagrama de classe produto
-![Diagrma de classes de Produto](src/br/ulbra/img/usuario.png)
+![Diagrma de classes de Usuario](src/br/ulbra/img/usuario.png)
 
 diagrama de classe fonecedor
-![Diagrma de classes de Produto](src/br/ulbra/img/fornecedor.png)
+![Diagrma de classes de Fornecedor](src/br/ulbra/img/fornecedor.png)
 
-diagrama de classe cliente
+diagrama de classe Produto
 ![Diagrma de classes de Produto](src/br/ulbra/img/produto.png)
 
-diagrama de classe usuario
-![Diagrma de classes de Produto](src/br/ulbra/img/venda.png)
+diagrama de classe Venda
+![Diagrma de classes de Venda](src/br/ulbra/img/venda.png)
 
-diagrama de classe venda
-![Diagrma de classes de Produto](src/br/ulbra/img/cliente(2).png)
+diagrama de classe Cliente
+![Diagrma de classes de Cliente](src/br/ulbra/img/cliente(2).png)
 
 diagrama de entidade relacionamento
 ![Diagrma de entidade relacionamento](src/br/ulbra/img/diagrama_entidade.jpeg)
