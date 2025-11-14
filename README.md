@@ -305,7 +305,7 @@ Este projeto foi desenvolvido para fins **educacionais**, como exemplo de CRUD c
 ---
 ## Diagramas
 
-# diagrama de classe produto
+# diagrama de classe Usuario
 ![Diagrma de classes de Usuario](src/br/ulbra/img/usuario.png)
 
 # diagrama de classe fonecedor
