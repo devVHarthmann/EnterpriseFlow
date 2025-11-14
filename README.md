@@ -34,7 +34,8 @@ src/br/ulbra/
  ├─ controller/  → Lógica de controle (ClienteController, FornecedorController, ItensVendaController, ProdutoController, UsuarioController, VendaController)
  ├─ model/       → Modelos (Cliente.java, Fornecedor.java, ItensVenda.java, Produto.java, Usuario.java, Venda.java)
  ├─ view/        → Interfaces gráficas (CadastroClientes, CadastroFornecedorView, CadastroUsuarioView, Dashboard, ListaClientesView, ListaFornecedoresView, ListaProdutoView, ListaVendasView, ProdutoView, VendaView, loginUsuarioView)
- └─ img/         → Ícones
+ ├─ img/         → imagens dos diagramas
+ └─ src/         → Ícones
 ```
 
 ---
